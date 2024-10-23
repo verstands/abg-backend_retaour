@@ -1,0 +1,4 @@
+[21-May-2024 22:37:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/loginsma/ex.loginsmart-cd.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/loginsma/ex.loginsmart-cd.com/config/database.php on line 18
